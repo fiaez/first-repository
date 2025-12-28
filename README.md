@@ -1,2 +1,3 @@
-# first-repository
-first repository 
+# Demo project
+ This is my first repository 
+ author Fayez 
