@@ -1,3 +1,3 @@
 # Demo project
- This is my first repository 
- .Author -Fayez 
+ This is my first repository.
+ Author -Fayez 
